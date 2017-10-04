@@ -1,0 +1,7 @@
+<map id="TemperatureRead" name="TemperatureRead">
+<area shape="rect" id="node2" href="$multi__sensor_8cpp.html#add0327e4af21c1b4adf78ad5d1259915" title="Read data from and analog light sensor. " alt="" coords="180,5,303,32"/>
+<area shape="rect" id="node3" href="$multi__sensor_8cpp.html#a0e9f98d19f218a1dc3c36df7535fa05b" title="Read data from the SFE BMP180 Barometric Pressure Sensors. " alt="" coords="201,56,281,83"/>
+<area shape="rect" id="node4" href="$multi__sensor_8cpp.html#adf27a077b69d1475ef7119628eeeb79e" title="Read Humidity data from the DTH11 Sensor. " alt="" coords="195,107,287,133"/>
+<area shape="rect" id="node6" href="$multi__sensor_8cpp.html#a6ac8f90082a653442f802cc88eda9940" title="Read the current from the Real Time Clock. " alt="" coords="200,157,283,184"/>
+<area shape="rect" id="node5" href="$multi__sensor_8cpp.html#a67863de38efa576fada8c5dee333a512" title="Read data from the DTH11 Sensor. " alt="" coords="351,107,429,133"/>
+</map>

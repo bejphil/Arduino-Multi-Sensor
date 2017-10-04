@@ -3,6 +3,8 @@
 #include "RTClib.h"
 #include <SPI.h>
 
+/** @file */
+
 // SFE_BMP180 object, called "pressure":
 SFE_BMP180 pressure;
 
